@@ -1,0 +1,21 @@
+{
+  "name": "averages-bowling-game",
+  "version": "1.0.1",
+  "description": "Bowling game score calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "bowling"
+  ],
+  "author": "anthony guertin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
